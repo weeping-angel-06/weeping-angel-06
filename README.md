@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weeping-angel-06
-- 👀 I’m interested in coding for school and for a future career in Physics
+- 👀 I’m interested in coding for school and for a future career in Mathemaics
 - 🌱 I’m currently learning C# and using it for project and game development
 
 <!---
